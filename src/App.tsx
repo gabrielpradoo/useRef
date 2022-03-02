@@ -1,7 +1,7 @@
-import RefAsCounter from "./refAsCounter";
+import RefInterectingWithDom from "./components/refInterectingWithDom";
 
 function App() {
-  return <RefAsCounter />;
+  return <RefInterectingWithDom />;
 }
 
 export default App;
